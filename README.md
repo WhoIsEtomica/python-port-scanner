@@ -11,8 +11,8 @@ This is a simple Python script for scanning ports on a target IP address or host
 ## Usage
 
 1. **Clone the repository:**
-   git clone https://github.com/WhoIsEtomica/python-port-scanner.git
-   cd python-port-scanner
+git clone https://github.com/WhoIsEtomica/python-port-scanner.git
+cd python-port-scanner
 Run the script:
 python port_scanner.py target_ip_or_hostname [options]
 Replace target_ip_or_hostname with the IP address or hostname you want to scan.
